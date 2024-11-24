@@ -1,5 +1,5 @@
 This is EvoCamo. by luk3jb on GitHub.
-made with Processing 4
+made with Processing 4.
 
 in theory, this evolution simulator should result in creatures mimicing their environment. so far, ive seen the predators learn to identify and catch prey, but I havent been able to observe any camouflage patterns.
 either I havent left the simulation on for long enough (35 hours), or the settings aren't optimal. or theres a glaring issue with my code that results in the game progressing drastically different than how it was supposed to. its terribly optimised so the fastforward feature doesnt really work.
